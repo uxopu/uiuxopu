@@ -1,0 +1,105 @@
+<html>
+	<head>
+		<title>All about rabbits!</title>
+		<style>
+		h2 {
+			color:rgb(0,232,52);
+		}	
+		Body {
+			background: rgb(171,171,171);
+		}	
+
+		.rabbit-song{
+			background-color: pink;
+		}
+		
+
+
+
+		</style>
+	</head>
+	<Body>
+	<h1>All about rabbits!</h1>
+	<h2> <a href="#internal link">"Basic info"</a>
+	</h2>
+		<a target="_blank" href="https://www.google.com/"> Html link</a>
+	<p class="rabbit-song">
+		<strong>
+		Rabbits are little creatures with long ears and puffy tails,
+	    </strong>   
+	 and they move their nose up and down in an adorable way.<em>
+	  They</em>
+	  eat the most orange vegetables in our world, and they reproduce more than any human ever has.</p>
+	<h2 id="rabbit-info-headline">Song</h2>
+	<p  class="rabbit-song">Little Bunny Foo Foo,<br>
+<em>
+	<strong>
+
+I don't want to see you<br>
+scooping up the field mice<br>
+and bopping them on the head!</p>
+</strong>
+</em>
+<h3 id="internal link">My wish list</h3>
+<em>
+	<strong>
+<ul>
+	<li>A phone</li>
+	<li>A car</li>
+</em>
+</strong>
+</ul>
+<ol>
+	<li>phone</li>
+	<li>car</li>
+	</ol>
+
+	<h2> My Car </h2>
+	<ul>
+		<li>Toyota</li>
+		<li>Honda</li>
+		<li>Mazda</li>
+	</ul>
+
+	<table>
+		<thead>
+			<tr>
+				<th>Brand name</th>
+				<th>Color</th>
+				<th>Model year</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Toyota</td>
+				<td>black</td>
+				<td>2019</td>
+			</tr>
+			<tr>
+				<td>Honda</td>
+				<td>red</td>
+				<td>2020</td>
+			</tr>
+			<tr>
+				<td>Mazda</td>
+				<td>blue</td>
+				<td>2021</td>
+			</tr>
+
+		</tbody>
+
+	</table>
+<h2> my css font tesing </h2>
+<p id="id">random text</p>
+<style>
+#id {
+color:yellow;
+font-weight:;
+line-height: 15px;
+text-align:center;
+text-decoration: underline;
+}
+</style>
+	</body>
+</html>
+
